@@ -1,0 +1,17 @@
+.Profile{
+    position: relative;
+    display: grid;
+    grid-template-columns: 18rem auto 20rem;
+    gap: 1rem;
+
+    height: auto;
+    max-height: 34.1rem;
+    overflow: scroll;
+}
+
+
+.Profile-center{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
